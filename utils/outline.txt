@@ -1,0 +1,27 @@
+CRISP-DM outline
+1. Business Understanding
+   Goal
+   Hypothesis
+   Analytical questions
+   More information about the project
+2. Data Understanding
+   Load data set
+   Clean dataset
+   EDA
+   Univariate analysis
+   Bivariate analysis
+   Answer analytical questions
+   Test hypothesis
+3.Data Preparation
+  check if the dataset is balanced
+  split data into x and y (train and evaluation dataset)
+  encode y label
+  create transformers based on your understanding of the data
+4.Modelling and evaluation
+  choose models to train
+  train on unbalanced dataset
+  train on balanced data
+  hyperparameter tuning
+  model persistence 
+
+
