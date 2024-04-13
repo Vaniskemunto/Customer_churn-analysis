@@ -16,11 +16,12 @@ CRISP-DM outline
   check if the dataset is balanced
   split data into x and y (train and evaluation dataset)
   encode y label
-  create transformers based on your understanding of the data
+  create transformers based on your understanding of the data-pipeline
 4.Modelling and evaluation
   choose models to train
   train on unbalanced dataset
   train on balanced data
+  visualize evaluation
   hyperparameter tuning
   model persistence 
 
